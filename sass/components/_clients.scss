@@ -1,16 +1,9 @@
-.clients {
-    display: flex;
-    justify-content: center;
-    }
     .clients__body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    margin: 0 auto;
     width: 1200px;
     padding: 94px 15px;
     }
     .clients__title {
-    align-self: center;
     margin-bottom: 50px;
     font-size: 36px;
     line-height: 1.16;
@@ -20,7 +13,6 @@
     }
     .clients__list {
     display: flex;
-    padding: 0 -15px;
     gap: 30px;
     }
     .clients__link{
